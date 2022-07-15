@@ -1,0 +1,15 @@
+C:\C#\1\Module1dz\obj\Debug\net6.0\Module1dz.csproj.AssemblyReference.cache
+C:\C#\1\Module1dz\obj\Debug\net6.0\Module1dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\1\Module1dz\obj\Debug\net6.0\Module1dz.AssemblyInfoInputs.cache
+C:\C#\1\Module1dz\obj\Debug\net6.0\Module1dz.AssemblyInfo.cs
+C:\C#\1\Module1dz\obj\Debug\net6.0\Module1dz.csproj.CoreCompileInputs.cache
+C:\C#\1\Module1dz\bin\Debug\net6.0\Module1dz.exe
+C:\C#\1\Module1dz\bin\Debug\net6.0\Module1dz.deps.json
+C:\C#\1\Module1dz\bin\Debug\net6.0\Module1dz.runtimeconfig.json
+C:\C#\1\Module1dz\bin\Debug\net6.0\Module1dz.dll
+C:\C#\1\Module1dz\bin\Debug\net6.0\Module1dz.pdb
+C:\C#\1\Module1dz\obj\Debug\net6.0\Module1dz.dll
+C:\C#\1\Module1dz\obj\Debug\net6.0\refint\Module1dz.dll
+C:\C#\1\Module1dz\obj\Debug\net6.0\Module1dz.pdb
+C:\C#\1\Module1dz\obj\Debug\net6.0\Module1dz.genruntimeconfig.cache
+C:\C#\1\Module1dz\obj\Debug\net6.0\ref\Module1dz.dll
