@@ -1,0 +1,15 @@
+C:\C#\1\module2dz180722\obj\Debug\net6.0\module2dz180722.csproj.AssemblyReference.cache
+C:\C#\1\module2dz180722\obj\Debug\net6.0\module2dz180722.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\1\module2dz180722\obj\Debug\net6.0\module2dz180722.AssemblyInfoInputs.cache
+C:\C#\1\module2dz180722\obj\Debug\net6.0\module2dz180722.AssemblyInfo.cs
+C:\C#\1\module2dz180722\obj\Debug\net6.0\module2dz180722.csproj.CoreCompileInputs.cache
+C:\C#\1\module2dz180722\bin\Debug\net6.0\module2dz180722.exe
+C:\C#\1\module2dz180722\bin\Debug\net6.0\module2dz180722.deps.json
+C:\C#\1\module2dz180722\bin\Debug\net6.0\module2dz180722.runtimeconfig.json
+C:\C#\1\module2dz180722\bin\Debug\net6.0\module2dz180722.dll
+C:\C#\1\module2dz180722\bin\Debug\net6.0\module2dz180722.pdb
+C:\C#\1\module2dz180722\obj\Debug\net6.0\module2dz180722.dll
+C:\C#\1\module2dz180722\obj\Debug\net6.0\refint\module2dz180722.dll
+C:\C#\1\module2dz180722\obj\Debug\net6.0\module2dz180722.pdb
+C:\C#\1\module2dz180722\obj\Debug\net6.0\module2dz180722.genruntimeconfig.cache
+C:\C#\1\module2dz180722\obj\Debug\net6.0\ref\module2dz180722.dll
