@@ -1,0 +1,15 @@
+C:\C#\1\Sem150722\obj\Debug\net6.0\Sem150722.csproj.AssemblyReference.cache
+C:\C#\1\Sem150722\obj\Debug\net6.0\Sem150722.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\1\Sem150722\obj\Debug\net6.0\Sem150722.AssemblyInfoInputs.cache
+C:\C#\1\Sem150722\obj\Debug\net6.0\Sem150722.AssemblyInfo.cs
+C:\C#\1\Sem150722\obj\Debug\net6.0\Sem150722.csproj.CoreCompileInputs.cache
+C:\C#\1\Sem150722\bin\Debug\net6.0\Sem150722.exe
+C:\C#\1\Sem150722\bin\Debug\net6.0\Sem150722.deps.json
+C:\C#\1\Sem150722\bin\Debug\net6.0\Sem150722.runtimeconfig.json
+C:\C#\1\Sem150722\bin\Debug\net6.0\Sem150722.dll
+C:\C#\1\Sem150722\bin\Debug\net6.0\Sem150722.pdb
+C:\C#\1\Sem150722\obj\Debug\net6.0\Sem150722.dll
+C:\C#\1\Sem150722\obj\Debug\net6.0\refint\Sem150722.dll
+C:\C#\1\Sem150722\obj\Debug\net6.0\Sem150722.pdb
+C:\C#\1\Sem150722\obj\Debug\net6.0\Sem150722.genruntimeconfig.cache
+C:\C#\1\Sem150722\obj\Debug\net6.0\ref\Sem150722.dll
