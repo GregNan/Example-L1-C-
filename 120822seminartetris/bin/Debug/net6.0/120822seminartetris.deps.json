@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "120822seminartetris/1.0.0": {
+        "runtime": {
+          "120822seminartetris.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "120822seminartetris/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

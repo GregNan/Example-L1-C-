@@ -1,0 +1,15 @@
+C:\C#\1\DZ120822metod4\bin\Debug\net6.0\DZ120822metod4.exe
+C:\C#\1\DZ120822metod4\bin\Debug\net6.0\DZ120822metod4.deps.json
+C:\C#\1\DZ120822metod4\bin\Debug\net6.0\DZ120822metod4.runtimeconfig.json
+C:\C#\1\DZ120822metod4\bin\Debug\net6.0\DZ120822metod4.dll
+C:\C#\1\DZ120822metod4\bin\Debug\net6.0\DZ120822metod4.pdb
+C:\C#\1\DZ120822metod4\obj\Debug\net6.0\DZ120822metod4.csproj.AssemblyReference.cache
+C:\C#\1\DZ120822metod4\obj\Debug\net6.0\DZ120822metod4.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\1\DZ120822metod4\obj\Debug\net6.0\DZ120822metod4.AssemblyInfoInputs.cache
+C:\C#\1\DZ120822metod4\obj\Debug\net6.0\DZ120822metod4.AssemblyInfo.cs
+C:\C#\1\DZ120822metod4\obj\Debug\net6.0\DZ120822metod4.csproj.CoreCompileInputs.cache
+C:\C#\1\DZ120822metod4\obj\Debug\net6.0\DZ120822metod4.dll
+C:\C#\1\DZ120822metod4\obj\Debug\net6.0\refint\DZ120822metod4.dll
+C:\C#\1\DZ120822metod4\obj\Debug\net6.0\DZ120822metod4.pdb
+C:\C#\1\DZ120822metod4\obj\Debug\net6.0\DZ120822metod4.genruntimeconfig.cache
+C:\C#\1\DZ120822metod4\obj\Debug\net6.0\ref\DZ120822metod4.dll

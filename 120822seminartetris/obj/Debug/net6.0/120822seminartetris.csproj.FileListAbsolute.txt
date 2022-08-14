@@ -1,0 +1,15 @@
+C:\C#\1\120822seminartetris\bin\Debug\net6.0\120822seminartetris.exe
+C:\C#\1\120822seminartetris\bin\Debug\net6.0\120822seminartetris.deps.json
+C:\C#\1\120822seminartetris\bin\Debug\net6.0\120822seminartetris.runtimeconfig.json
+C:\C#\1\120822seminartetris\bin\Debug\net6.0\120822seminartetris.dll
+C:\C#\1\120822seminartetris\bin\Debug\net6.0\120822seminartetris.pdb
+C:\C#\1\120822seminartetris\obj\Debug\net6.0\120822seminartetris.csproj.AssemblyReference.cache
+C:\C#\1\120822seminartetris\obj\Debug\net6.0\120822seminartetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\1\120822seminartetris\obj\Debug\net6.0\120822seminartetris.AssemblyInfoInputs.cache
+C:\C#\1\120822seminartetris\obj\Debug\net6.0\120822seminartetris.AssemblyInfo.cs
+C:\C#\1\120822seminartetris\obj\Debug\net6.0\120822seminartetris.csproj.CoreCompileInputs.cache
+C:\C#\1\120822seminartetris\obj\Debug\net6.0\120822seminartetris.dll
+C:\C#\1\120822seminartetris\obj\Debug\net6.0\refint\120822seminartetris.dll
+C:\C#\1\120822seminartetris\obj\Debug\net6.0\120822seminartetris.pdb
+C:\C#\1\120822seminartetris\obj\Debug\net6.0\120822seminartetris.genruntimeconfig.cache
+C:\C#\1\120822seminartetris\obj\Debug\net6.0\ref\120822seminartetris.dll
