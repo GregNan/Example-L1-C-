@@ -1,0 +1,15 @@
+C:\C#\1\DZ190822method\obj\Debug\net6.0\DZ190822method.csproj.AssemblyReference.cache
+C:\C#\1\DZ190822method\obj\Debug\net6.0\DZ190822method.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\1\DZ190822method\obj\Debug\net6.0\DZ190822method.AssemblyInfoInputs.cache
+C:\C#\1\DZ190822method\obj\Debug\net6.0\DZ190822method.AssemblyInfo.cs
+C:\C#\1\DZ190822method\obj\Debug\net6.0\DZ190822method.csproj.CoreCompileInputs.cache
+C:\C#\1\DZ190822method\bin\Debug\net6.0\DZ190822method.exe
+C:\C#\1\DZ190822method\bin\Debug\net6.0\DZ190822method.deps.json
+C:\C#\1\DZ190822method\bin\Debug\net6.0\DZ190822method.runtimeconfig.json
+C:\C#\1\DZ190822method\bin\Debug\net6.0\DZ190822method.dll
+C:\C#\1\DZ190822method\bin\Debug\net6.0\DZ190822method.pdb
+C:\C#\1\DZ190822method\obj\Debug\net6.0\DZ190822method.dll
+C:\C#\1\DZ190822method\obj\Debug\net6.0\refint\DZ190822method.dll
+C:\C#\1\DZ190822method\obj\Debug\net6.0\DZ190822method.pdb
+C:\C#\1\DZ190822method\obj\Debug\net6.0\DZ190822method.genruntimeconfig.cache
+C:\C#\1\DZ190822method\obj\Debug\net6.0\ref\DZ190822method.dll
